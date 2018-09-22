@@ -1,0 +1,27 @@
+_repo: Letters-of-Asa-Gray-Vol-2_55987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gray, Asa
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '1757'
+    url: http://www.gutenberg.org/2009/agents/1757
+    wikipedia: http://en.wikipedia.org/wiki/Asa_Gray
+  editor:
+    agent_name: Gray, Jane Loring
+    gutenberg_agent_id: '48610'
+    url: http://www.gutenberg.org/2009/agents/48610
+description: ''
+gutenberg_issued: '2017-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Letters of Asa Gray; Vol. 2
+url: http://www.gutenberg.org/ebooks/55987
